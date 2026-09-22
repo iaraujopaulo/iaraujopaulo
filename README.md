@@ -44,6 +44,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"
+
   
 />anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress"   
 
