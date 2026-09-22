@@ -104,12 +104,3 @@
 <br>
 
 
-Dev Jokes https://github.com/ABSphreak/readme-jokes
-
-Trofeus https://github.com/ryo-ma/github-profile-trophy
-
-Twitter https://github.com/gazf/github-readme-twitter
-
-Meme aleatorio https://github.com/techytushar/random-memer
-
-Quotes https://github.com/PiyushSuthar/github-readme-quotes
