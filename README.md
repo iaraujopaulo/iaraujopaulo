@@ -40,8 +40,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-pages/default.svg" alt="Github Pages"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bitbucket/default.svg" alt="Bitbucket"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Anaconda"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
