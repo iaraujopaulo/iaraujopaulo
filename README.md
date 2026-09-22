@@ -44,7 +44,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/light.svg" alt="React"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node JS"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/bitbucket/default.svg" alt="Bitbucket"/>
@@ -53,15 +53,16 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flask/light.svg" alt="Flask"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" alt="Powershell"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" alt="Grafana"/>
-
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/centreon/default.svg" alt="Centreon"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/>
   
-discord,latex,mysql,netlify,nodejs,powershell,vercel,vim,vscode 
-
 </div>
 
 <br>
