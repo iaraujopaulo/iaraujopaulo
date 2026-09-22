@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
- <img alt="Static Badge" src="https://img.shields.io/badge/IgorAraujo">
+ <img src="https://img.shields.io/badge/Igor_♡-Araujo" />
 </div>
       
 <br>
@@ -42,6 +42,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
   <p align="center">
   <a href="https://skillicons.dev">
   <img width="40" src="https://skillicons.dev/icons?i=anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress" />   
