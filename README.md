@@ -33,12 +33,13 @@
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberrypi/default.svg" alt="Raspberry Pi"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg" alt="AWS"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
@@ -57,7 +58,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" alt="Grafana"/>
 
   
-discord,latex,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress"   
+discord,latex,mysql,netlify,nodejs,powershell,react,vercel,vim,vscode,tailwind,windows,wordpress"   
 
 </div>
 
