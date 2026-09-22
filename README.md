@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/Igor_♡-Araujo" />
 </div>
       
 <br>
@@ -31,6 +31,8 @@
   
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
@@ -43,6 +45,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://skillicons.dev/icons?i=anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress" />   
+  </a>
+</p>
 </div>
 
 <br>
