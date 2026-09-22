@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Igor_♡-Araujo" />
+  <img src="https://img.shields.io/badge/Igor+Araujo" />
 </div>
       
 <br>
@@ -31,8 +31,6 @@
   
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
@@ -44,6 +42,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <p align="center">
+  <a href="https://skillicons.dev">
   <img width="40" src="https://skillicons.dev/icons?i=anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress" />   
   </a>
 </p>
@@ -85,7 +85,7 @@
   <p align="center">
       <samp>
         <a href="https://linktr.ee/iapaulo">linktr.ee</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> 
       </samp>
   </p>
 </div>
