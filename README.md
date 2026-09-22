@@ -60,7 +60,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" alt="Grafana"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/centreon/default.svg" alt="Centreon"/>
+  <img width="40" src="https://www.vectorlogo.zone/logos/centreon/centreon-ar21.svg" alt="Centreon"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/>
   
 </div>
