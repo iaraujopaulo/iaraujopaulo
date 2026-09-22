@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Igor+Araujo" />
+  <img src="https://img.shields.io/badge/IgorAraujo" />
 </div>
       
 <br>
