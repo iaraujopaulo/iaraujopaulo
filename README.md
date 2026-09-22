@@ -43,11 +43,10 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg">
-  <p align="center">
-  <a href="https://skillicons.dev">
-  <img width="40" src="https://skillicons.dev/icons?i=anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress" />   
-  </a>
-</p>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"
+  
+/>anaconda,aws,bitbucket,discord,cypress,fastapi,flask,githubactions,github,gitlab,grafana,latex,linux,mysql,netlify,nodejs,powershell,raspberrypi,react,vercel,vim,vscode,tailwind,windows,wordpress"   
+
 </div>
 
 <br>
