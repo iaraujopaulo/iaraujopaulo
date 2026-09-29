@@ -36,8 +36,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/aws/default.svg" alt="AWS"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML5.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS3.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind" --> />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
