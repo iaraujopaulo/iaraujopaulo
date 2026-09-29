@@ -1,5 +1,16 @@
 <br>
 
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primer/octicons/main/icons/moon-24.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primer/octicons/main/icons/sun-24.svg">
+    <img width="22" src="https://raw.githubusercontent.com/primer/octicons/main/icons/sun-24.svg" alt="Theme">
+  </picture>
+</div>
+
+<br>
+
+
 <div align="center">
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
