@@ -85,21 +85,38 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>Contact me:</b>
   </samp>
+
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:iaraujopaulo@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iap10)
-  [![Facebook](https://img.shields.io/badge/Facebook-007ab9?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/igor.araujo.9083477)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/igoraraujo1313)
-  [![X](https://img.shields.io/badge/X-007ab9?style=for-the-badge&logo=xin&logoColor=1DA1F2)](https://x.com/igoraraujopaulo)
-  [![Youtube](https://img.shields.io/badge/Youtube-007ab9?style=for-the-badge&logo=youtubein&logoColor=fff)](https://www.youtube.com/@igoraraujo13)
-  
+  <a href="mailto:iaraujopaulo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-DD4B40?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/iap10">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.facebook.com/igor.araujo.9083477">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="https://www.instagram.com/igoraraujo1313">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://x.com/igoraraujopaulo">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <a href="https://www.youtube.com/@igoraraujo13">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
 </div>
+
 
 <div align="center">
   <p align="center">
