@@ -1,12 +1,18 @@
 <br>
 
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/primer/octicons/main/icons/moon-24.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/primer/octicons/main/icons/sun-24.svg">
-    <img width="25" src="https://raw.githubusercontent.com/primer/octicons/main/icons/sun-24.svg" alt="Theme">
-  </picture>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://.../Programming-Computer-Dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://.../Programming-Computer-Light.svg"
+  />
+
+</picture>
+
 
 <br>
 
