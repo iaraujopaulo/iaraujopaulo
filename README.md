@@ -1,22 +1,5 @@
 <br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://.../Programming-Computer-Dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://.../Programming-Computer-Light.svg"
-  />
-
-</picture>
-
-
-<br>
-
-
 <div align="center">
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
