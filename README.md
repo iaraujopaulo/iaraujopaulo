@@ -96,7 +96,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iap10)
   [![Facebook](https://img.shields.io/badge/Facebook-007ab9?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/igor.araujo.9083477)
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/igoraraujo1313)
-  [![X](https://img.shields.io/badge/X-007ab9?style=for-the-badge&logo=xin&logoColor=fff)](https://x.com/igoraraujopaulo)
+  [![X](https://img.shields.io/badge/X-007ab9?style=for-the-badge&logo=xin&logoColor=1DA1F2)](https://x.com/igoraraujopaulo)
   [![Youtube](https://img.shields.io/badge/Youtube-007ab9?style=for-the-badge&logo=youtubein&logoColor=fff)](https://www.youtube.com/@igoraraujo13)
   
 </div>
