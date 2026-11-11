@@ -47,7 +47,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/light.svg" alt="React"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node JS"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
+  <!-- <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/> -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
