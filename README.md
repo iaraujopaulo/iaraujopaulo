@@ -47,8 +47,15 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/light.svg" alt="React"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node JS"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
   <!-- <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/> -->
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg alt="Insomnia"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
@@ -60,8 +67,11 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
+  <img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/>
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress"/> --> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" alt="Powershell"/>
+  <img width="40" src="
+  <img width="40" src="
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
@@ -70,6 +80,15 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/>
   <img width="40" src="https://www.vectorlogo.zone/logos/centreon/centreon-icon.svg" alt="Centreon"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/proxmox-auto.svg" alt="Proxmox"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/vmwareworkstation-auto.svg" alt="Vmware"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/virtualbox-auto.svg" alt="Virtualbox"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/notion-auto.svg" alt="Notion"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/obsidian-auto.svg" alt="Obsidian"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/hugo-auto.svg" alt="Hugo"/>
   
 </div>
 
