@@ -36,7 +36,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/>
-  <img width="40" src="imagens/icone-chip.svg" alt="Ícone de chip">" alt="C Embarcado"/> --> 
+  <img src="imagens/icone-chip.svg" alt="Ícone de chip" width="40" height="40"> alt="C Embarcado"/> --> 
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/> --> 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/> --> 
