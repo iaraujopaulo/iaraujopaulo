@@ -69,9 +69,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
   <img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/>
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress"/> --> 
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/bash-auto.svg" alt="Bash"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" alt="Powershell"/>
-  <img width="40" src="https://icons8.com/icon/UjcGNVXknmz3/linux-terminal" alt="Powershell"/>
-  <img width="40" src="
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/terminal-auto.svg" alt="Terminal"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
