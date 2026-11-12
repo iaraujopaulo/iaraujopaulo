@@ -102,6 +102,10 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fortinet/default.svg" alt="Fortinet"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-point.svg" alt="CheckPoint"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="Unifi"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" alt="Mikrotik"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/huawei.svg" alt="Huawei"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hpe-aruba.svg" alt="Aruba"/>
   
 </div>
 
