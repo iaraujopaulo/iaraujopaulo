@@ -53,7 +53,7 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg" alt="Insomnia"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/> -->
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDeveloper"/>
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDeveloper"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/> --> 
@@ -72,7 +72,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flask/light.svg" alt="Flask"/>
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/> -->
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/> -->
   <!--<img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/> -->
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/bash-auto.svg" alt="Bash"/> -->
