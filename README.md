@@ -32,8 +32,8 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/>
+  <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/> -->
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/> -->
   <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gcp-auto.svg" alt="Google Cloud"/>-->
@@ -84,10 +84,10 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
   <img width="40" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="Mac"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" alt="Grafana"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/>
-  <img width="40" src="https://www.vectorlogo.zone/logos/centreon/centreon-icon.svg" alt="Centreon"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/>
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/grafana/default.svg" alt="Grafana"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/> -->
+  <!--<img width="40" src="https://www.vectorlogo.zone/logos/centreon/centreon-icon.svg" alt="Centreon"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform"/> -->
