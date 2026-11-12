@@ -56,7 +56,8 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>  
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>          
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
   <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg" alt="DBeaver"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitea/gitea-original.svg" alt="Gitea"/>
