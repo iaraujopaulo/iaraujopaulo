@@ -51,7 +51,7 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
   <!-- <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/> -->
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg alt="Insomnia"/>
+  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg" alt="Insomnia"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/>
@@ -74,7 +74,6 @@
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/bash-auto.svg" alt="Bash"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" alt="Powershell"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/terminal-auto.svg" alt="Terminal"/>
-  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/windows/default.svg" alt="Windows"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linux/default.svg" alt="Linux"/>
   <img width="40" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="Mac"/>
