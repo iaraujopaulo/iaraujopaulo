@@ -86,26 +86,29 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zabbix/default.svg" alt="Zabbix"/>
   <img width="40" src="https://www.vectorlogo.zone/logos/centreon/centreon-icon.svg" alt="Centreon"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nagios/default.svg" alt="Nagios"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" alt="OpenStack"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/proxmox-auto.svg" alt="Proxmox"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/vmwareworkstation-auto.svg" alt="Vmware"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/virtualbox-auto.svg" alt="Virtualbox"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original.svg" alt="HyperV"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/notion-auto.svg" alt="Notion"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/obsidian-auto.svg" alt="Obsidian"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/hugo-auto.svg" alt="Hugo"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbox/netbox-original.svg" alt="NETBOX"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fortinet/default.svg" alt="Fortinet"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-point.svg" alt="CheckPoint"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="Unifi"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" alt="Mikrotik"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/huawei.svg" alt="Huawei"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hpe-aruba.svg" alt="Aruba"/>
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/> -->
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes"/> -->
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" alt="OpenStack"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/proxmox-auto.svg" alt="Proxmox"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/vmwareworkstation-auto.svg" alt="Vmware"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/virtualbox-auto.svg" alt="Virtualbox"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original.svg" alt="HyperV"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/notion-auto.svg" alt="Notion"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/obsidian-auto.svg" alt="Obsidian"/> -->
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/hugo-auto.svg" alt="Hugo"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbox/netbox-original.svg" alt="Netbox"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fortinet/default.svg" alt="Fortinet"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-point.svg" alt="CheckPoint"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="Unifi"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" alt="Mikrotik"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/huawei.svg" alt="Huawei"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/hpe-aruba.svg" alt="Aruba"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" alt="HP"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="PFsense"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opnsense/opnsense-original.svg" alt="OPNsense"/> -->
   
 </div>
 
