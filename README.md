@@ -41,6 +41,7 @@
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/> --> 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/> --> 
+  <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="Html">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap"/>
@@ -50,7 +51,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node JS"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
-  <!-- <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cypress/default.svg" alt="Cypress"/> -->
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg" alt="Insomnia"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
