@@ -101,6 +101,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fortinet/default.svg" alt="Fortinet"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/check-point.svg" alt="CheckPoint"/>
   
 </div>
 
