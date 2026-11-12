@@ -88,6 +88,7 @@
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/proxmox-auto.svg" alt="Proxmox"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/vmwareworkstation-auto.svg" alt="Vmware"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/virtualbox-auto.svg" alt="Virtualbox"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original-wordmark.svg"  alt="HyperV"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/notion-auto.svg" alt="Notion"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/obsidian-auto.svg" alt="Obsidian"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/hugo-auto.svg" alt="Hugo"/>
