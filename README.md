@@ -35,13 +35,13 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/>
-  <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gcp-auto.svg" alt="Google Cloud"/>
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/> -->
+  <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gcp-auto.svg" alt="Google Cloud"/>-->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="C Embarcado"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/> --> 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/>
+  <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#"/> --> 
-  <img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown"/>
+  <!--<img  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown"/> -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="Html">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap"/>
@@ -52,14 +52,15 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Dark.svg" alt="Cypress"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/insomnia.svg" alt="Insomnia"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/>
-  <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/>
-  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>  
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>          
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
-  <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg" alt="DBeaver"/>
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman"/> -->
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDeveloper"/>
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/> --> 
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/> --> 
+  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/> --> 
+  <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>  --> 
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>  -->       
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/> 
+  <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg" alt="DBeaver"/> --> 
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitea/gitea-original.svg" alt="Gitea"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
@@ -71,7 +72,7 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
-  <img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/>
+  <!--<img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/> -->
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/bash-auto.svg" alt="Bash"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/powershell/default.svg" alt="Powershell"/>
@@ -94,6 +95,10 @@
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/notion-auto.svg" alt="Notion"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/obsidian-auto.svg" alt="Obsidian"/>
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/hugo-auto.svg" alt="Hugo"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbox/netbox-original.svg" alt="NETBOX"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="Putty"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="SSH"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fortinet/default.svg" alt="Fortinet"/>
   
 </div>
 
