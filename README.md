@@ -57,6 +57,7 @@
   <img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/>
+  <img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbeaver-auto.svg" alt="DBeaver/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github-badge/default.svg" alt="Github"/>
    <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gitlab/default.svg" alt="Gitlab"/>
