@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
- <img src="https://img.shields.io/badge/Igor_🌍-Araujo" />
+ <img src="https://img.shields.io/badge/Igor-🌍-Araujo" />
 </div>
       
 <br>
@@ -89,6 +89,7 @@
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform"/> -->
+  <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/ansible.svg" alt="Ansible"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" alt="OpenStack"/> -->
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/proxmox-auto.svg" alt="Proxmox"/> -->
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/vmwareworkstation-auto.svg" alt="Vmware"/> -->
