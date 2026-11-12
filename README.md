@@ -70,8 +70,8 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/flask/light.svg" alt="Flask"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/>
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" alt="Fastapi"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/anaconda/default.svg" alt="Anaconda"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/latex/default.svg" alt="Latex"/>
   <!--<img width="40" src="https://images.ctfassets.net/nrgyaltdicpt/451Wbu94Q1X3M5QIk74QLL/08e42061e965fb152a329ded74cdc3ce/overleaf-o-logo-primary.svg" alt="Overleaf"/> -->
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" alt="Wordpress"/> --> 
