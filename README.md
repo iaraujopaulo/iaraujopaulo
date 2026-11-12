@@ -37,7 +37,7 @@
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/> -->
   <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gcp-auto.svg" alt="Google Cloud"/>-->
-  <img width="40" src="https://img.icons8.com/color/48/assembly.png" alt="Assembly"/>
+  <!--<img width="40" src="https://img.icons8.com/color/48/assembly.png" alt="Assembly"/> -->
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="C Embarcado"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C"/> --> 
   <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" alt="C++"/> -->
