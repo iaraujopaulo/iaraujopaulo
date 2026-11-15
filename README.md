@@ -65,7 +65,7 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDeveloper"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/> --> 
-   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-oracle-database/default.svg" alt="Oracle Database"/>   -->      
+   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/oracle-badge/default.svg" alt="Oracle Database"/>   -->      
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>  --> 
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>  -->       
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/> 
