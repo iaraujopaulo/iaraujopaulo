@@ -112,10 +112,11 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" alt="HP"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="PFsense"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opnsense/opnsense-original.svg" alt="OPNsense"/> -->
-  <img width="40" src="https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="Kicad"/>
-  <img width="40" src="https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad"/>
-  <img width="40" src="https://svgicons.com/img/295978/autodesk-logo-1-block.svg" alt="Autodesk"/>
-  <img width="40" src="
+  <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
+  <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
+  <img width="40" src="https://svgicons.com/img/190889/autocad-light.svg" alt="Autocad"/>
+  <img width="40" src="https://svgicons.com/img/110543/blueprint.svg" alt="Blueprint"/>
+  
   
 </div>
 
