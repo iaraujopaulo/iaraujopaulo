@@ -115,7 +115,9 @@
   <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
   <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
   <img width="40" src="https://svgicons.com/img/190889/autocad-light.svg" alt="Autocad"/>
-  <img width="40" src="https://svgicons.com/img/110543/blueprint.svg" alt="Blueprint"/>
+  <img width="40" src="https://svgicons.com/img/111854/salesforce.svg" alt="Salesforce"/>
+  <img width="40" src="https://svgicons.com/img/111859/sap.svg
+  <img width="40" src="
   
   
 </div>
