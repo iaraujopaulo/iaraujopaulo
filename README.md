@@ -32,15 +32,15 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://svgicons.com/img/188300/easyeda.svg" alt="EasyEDA"/>  
-  <img width="40" src="https://fritzing.org/assets/uploads/logo/badge-sticker-color-34a71dbc561316150ec471202b72fe5e3510c93acd5f83d6326e836979887426.svg" alt="Fritzing"/>  
-  <img width="40" src="https://svgicons.com/img/187616/altiumdesigner.svg" alt="Altium Designer"/>
-  <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
-  <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
-  <img width="40" src="https://svgicons.com/img/189664/proteus.svg" alt="Proteus"/>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/> 
-  <img width="40" src="https://svgicons.com/img/188367/espressif.svg" alt="ESP32"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/> 
+  <!--<img width="40" src="https://svgicons.com/img/188300/easyeda.svg" alt="EasyEDA"/> -->
+  <!--<img width="40" src="https://fritzing.org/assets/uploads/logo/badge-sticker-color-34a71dbc561316150ec471202b72fe5e3510c93acd5f83d6326e836979887426.svg" alt="Fritzing"/> --> 
+  <!--<img width="40" src="https://svgicons.com/img/187616/altiumdesigner.svg" alt="Altium Designer"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/189664/proteus.svg" alt="Proteus"/> -->
+  <!--<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/188367/espressif.svg" alt="ESP32"/> -->
+  <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/> -->
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/> -->
   <!--<img width="40" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gcp-auto.svg" alt="Google Cloud"/> -->
@@ -65,7 +65,7 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="SQLDeveloper"/> -->
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite"/> --> 
   <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/sqlserver-auto.svg" alt="SQLServer"/> --> 
-  <!--<img width="40" src="https://github.com/brunoliratm/skill-icons/blob/main/icons/oracle-auto.svg" alt="Oracle"/> --> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/azure-oracle-database/default.svg" alt="Oracle Database"/>  
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL"/>  --> 
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>  -->       
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL"/> 
@@ -120,10 +120,10 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" alt="HP"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="PFsense"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opnsense/opnsense-original.svg" alt="OPNsense"/> -->
-  <img width="40" src="https://svgicons.com/img/190889/autocad-light.svg" alt="Autocad"/>
-  <img width="40" src="https://svgicons.com/img/111854/salesforce.svg" alt="Salesforce"/>
-  <img width="40" src="https://svgicons.com/img/111859/sap.svg" alt="SAP"/>
-  <img width="40" src="https://svgicons.com/img/41312/totvs.svg" alt="TOTVS"/>
+  <!--<img width="40" src="https://svgicons.com/img/190889/autocad-light.svg" alt="Autocad"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/111854/salesforce.svg" alt="Salesforce"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/111859/sap.svg" alt="SAP"/> -->
+  <!--<img width="40" src="https://svgicons.com/img/41312/totvs.svg" alt="TOTVS"/> -->
    
 </div>
 
