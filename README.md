@@ -114,7 +114,7 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opnsense/opnsense-original.svg" alt="OPNsense"/> -->
   <img width="40" src="https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white" alt="Kicad"/>
   <img width="40" src="https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad"/>
-  <img width="40" src="https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white" alt="Autocad"/>
+  <img width="40" src="https://svgicons.com/img/295979/autodesk-logo-1-solid.svg" alt="Autodesk"/>
   <img width="40" src="
   
 </div>
