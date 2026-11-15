@@ -32,7 +32,11 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
+  <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
+  <img width="40" src="https://svgicons.com/img/189664/proteus.svg" alt="Proteus"/>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino"/> 
+  <img width="40" src="https://svgicons.com/img/188367/espressif.svg" alt="ESP32"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/raspberry-pi/default.svg" alt="Raspberry Pi"/> 
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS"/>
   <!--<img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="AZURE"/> -->
@@ -48,6 +52,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap"/>
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind" --> 
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript"/>
+  <img width="40" src="https://svgicons.com/img/26351/typescript.svg" alt="Typescript"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/light.svg" alt="React"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node JS"/>
   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="Vite"/>
@@ -112,14 +117,11 @@
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" alt="HP"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" alt="PFsense"/> -->
   <!--<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opnsense/opnsense-original.svg" alt="OPNsense"/> -->
-  <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
-  <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
   <img width="40" src="https://svgicons.com/img/190889/autocad-light.svg" alt="Autocad"/>
   <img width="40" src="https://svgicons.com/img/111854/salesforce.svg" alt="Salesforce"/>
-  <img width="40" src="https://svgicons.com/img/111859/sap.svg
-  <img width="40" src="
-  
-  
+  <img width="40" src="https://svgicons.com/img/111859/sap.svg" alt="SAP"/>
+  <img width="40" src="https://svgicons.com/img/41312/totvs.svg" alt="TOTVS"/>
+   
 </div>
 
 <br>
