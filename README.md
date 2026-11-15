@@ -35,7 +35,7 @@
   <img width="40" src="https://svgicons.com/img/188300/easyeda.svg" alt="EasyEDA"/>
   <img width="40" src="https://fritzing.org/assets/uploads/logo/badge-sticker-color-34a71dbc561316150ec471202b72fe5e3510c93acd5f83d6326e836979887426.svg" alt="Fritzing"/>
   <img width="40" src="https://svgicons.com/img/187616/altiumdesigner.svg" alt="Altium Designer"/>
-  <img width="40" src="" alt="LibrePCB"/>
+  <img width="40" src="https://commons.wikimedia.org/wiki/File:LibrePCB_Logo.svg#/media/File:LibrePCB_Logo.svg" alt="LibrePCB"/>
   <img width="40" src="https://svgicons.com/img/40912/kicad.svg" alt="Kicad"/>
   <img width="40" src="https://svgicons.com/img/190274/tinkercad.svg" alt="Tinkercad"/>
   <img width="40" src="https://svgicons.com/img/189664/proteus.svg" alt="Proteus"/>
